@@ -1,4 +1,4 @@
-# Aid0nWare
+# Aid0nWare EXTERNAL READ ONLY CSGO RADAR
 Aid0nWare is a simple Windows application that provides an overlay on top of the game "Counter-Strike: Global Offensive." It allows users to view player positions and other information on a map in real-time.
 
 ## Features
